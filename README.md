@@ -1,6 +1,4 @@
 
-# Ruby_Morse_Code
-In this project building TDD-Project: Test Driven Development
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
