@@ -23,7 +23,10 @@ class Solver
     end
   end
   
-  # Example usage:
+  
   solver = Solver.new
-  puts solver.factorial(5)     # Output: 120
-
+  puts solver.factorial(5)     
+  puts solver.reverse("hello")
+  puts solver.fizzbuzz(15)     
+  puts solver.fizzbuzz(7)      
+  
