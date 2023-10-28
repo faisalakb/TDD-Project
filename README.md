@@ -1,6 +1,4 @@
 
-# Ruby_Morse_Code
-In this project building OOP school library: add Person, Student and Teacher classes
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -18,9 +16,9 @@ In this project building OOP school library: add Person, Student and Teacher cla
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Create OOP school library  <a name="about-project"></a>
+# 📖 Create TDD project  <a name="about-project"></a>
 
-**Creating my own OOP school library** project using Ruby.
+**Creating my own TDD project** project using Ruby.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -35,7 +33,7 @@ In this project building OOP school library: add Person, Student and Teacher cla
 
 ### Key Features <a name="key-features"></a>
 
-- **define class**
+- **Write first tests**
 - **Use Module**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -56,7 +54,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```
-git clone https://github.com/faisalakb/Ruby_OOP_school_library.git
+git clone https://github.com/faisalakb/TDD-Project.git
 ```
 
 ### Install
@@ -64,7 +62,7 @@ git clone https://github.com/faisalakb/Ruby_OOP_school_library.git
 Install this project with:
 
 ```
-cd Ruby_OOP_school_library
+cd TDD-Project
 gem install
 ```
 
@@ -91,7 +89,7 @@ gem install
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/faisalakb/Ruby_OOP_school_library/issues).
+Feel free to check the [issues page](https://github.com/faisalakb/TDD-Project/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,6 +108,6 @@ If you like this project, please consider giving it a star.
 ## 📝 License <a name="license"></a>
 
 
-This project is [MIT](https://github.com/faisalakb/Ruby_OOP_school_library/blob/dev/LICENSE) licensed.
+This project is [MIT](https://github.com/faisalakb/TDD-Project/blob/dev/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
